@@ -1,0 +1,99 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/view/login",
+			"style": {
+			}
+		},
+		// {
+		// 	"path": "pages/member/mlist",
+		// 	"style": {
+		// 	}
+		// },
+		{
+			"path": "pages/order/order",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/home",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/goods/list",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/goods/cate",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/regist/regist",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/inventory/count",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/inventory/log",
+			"style": {
+			}
+		},
+		// {
+		// 	"path": "pages/order/order",
+		// 	"style": {
+		// 	}
+		// },
+		{
+			"path": "pages/promotion/coupons",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/promotion/discount",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/promotion/pmessage",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/set/baseinf",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/set/gpicture",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/set/tpicture",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/view/welcome",
+			"style": {
+			}
+		},
+		{
+			"path": "pages/member/mlist",
+			"style": {
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
